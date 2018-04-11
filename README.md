@@ -1,6 +1,6 @@
 # beatless
 
-A small game made with Java/Swing I made in 2009.
+A small game made with Java/Swing I made in 2009. To run, open beatless.jar.
 
 beatless is a top down "gatherer". the point of the game is to accumulate enough points per "screen" (ie. 520 pixels of vertical movement) so that you do not lose.
 

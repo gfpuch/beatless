@@ -1,7 +1,9 @@
-<embed 
-id="beatless"
-type="application/x-java-applet;version=1.6"
-archive="beatless.jar"
-code="beatless.class"
-pluginspage="http://java.com/download/
-/>
+<script src="https://java.com/js/deployJava.js"></script>
+<script>
+    var attributes = {code:'beatless.class',
+                      archive:'beatless.jar'
+                     } ;
+    var parameters = {fontSize:16} ;
+    var version = '1.6' ;
+    deployJava.runApplet(attributes, parameters, version);
+</script>
